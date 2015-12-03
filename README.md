@@ -13,7 +13,11 @@
 
 ## Example apps
 
-*Contribute some. :)*
+### Open source
+
+* [R Graph Catalog](http://shiny.stat.ubc.ca/r-graph-catalog/) *(by jennybc)* [[source](https://github.com/jennybc/r-graph-catalog)]
+
+### Closed source
 
 ## Tools
 
